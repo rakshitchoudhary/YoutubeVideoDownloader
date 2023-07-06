@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:1:1-14:12
+	package
+		ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:4:5-30
+	xmlns:android
+		ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:3:5-28
+uses-sdk
+ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:6:5-47
+	android:targetSdkVersion
+		ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:6:15-44
+		INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:6:5-47
+		INJECTED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml
+application
+ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:8:5-12:19
+	android:label
+		ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:8:18-50
+	android:icon
+		ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from /Users/vrtelecom/Desktop/Projects/YoutubeVideoDownloader2/androidffmpeglibrary/src/main/AndroidManifest.xml:10:9-40

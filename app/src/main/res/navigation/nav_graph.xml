@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/initialFragment">
+
+    <fragment
+        android:id="@+id/initialFragment"
+        android:name="com.youtubevideodownloader.InitialFragment"
+        android:label="Youtube App" >
+        <action
+            android:id="@+id/action_initialFragment_to_downloadFragment"
+            app:destination="@id/downloadFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/downloadFragment"
+        android:name="com.youtubevideodownloader.DownloadFragment"
+        android:label="Youtube App" >
+        <action
+            android:id="@+id/action_downloadFragment_to_convertFragment"
+            app:destination="@id/convertFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/convertFragment"
+        android:name="com.youtubevideodownloader.ConvertFragment"
+        android:label="Youtube App" >
+        <action
+            android:id="@+id/action_convertFragment_to_statusFragment"
+            app:destination="@id/statusFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/statusFragment"
+        android:name="com.youtubevideodownloader.StatusFragment"
+        android:label="Youtube App" />
+</navigation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YoutubeVideoDownloader.iml" filepath="$PROJECT_DIR$/.idea/modules/YoutubeVideoDownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidffmpeglibrary/YoutubeVideoDownloader.androidffmpeglibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/androidffmpeglibrary/YoutubeVideoDownloader.androidffmpeglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidffmpeglibrary/YoutubeVideoDownloader.androidffmpeglibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidffmpeglibrary/YoutubeVideoDownloader.androidffmpeglibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidffmpeglibrary/YoutubeVideoDownloader.androidffmpeglibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/androidffmpeglibrary/YoutubeVideoDownloader.androidffmpeglibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidffmpeglibrary/YoutubeVideoDownloader.androidffmpeglibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidffmpeglibrary/YoutubeVideoDownloader.androidffmpeglibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YoutubeVideoDownloader.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YoutubeVideoDownloader.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YoutubeVideoDownloader.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YoutubeVideoDownloader.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YoutubeVideoDownloader.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YoutubeVideoDownloader.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YoutubeVideoDownloader.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YoutubeVideoDownloader.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+int drawable ic_action_search 0x0
+int drawable ic_launcher 0x0
+int raw ffmpeg 0x0
+int raw sox 0x0
+int string app_name 0x0
+int style AppTheme 0x0
